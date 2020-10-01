@@ -13,14 +13,14 @@
 
 - 📫 How to reach me **owinohvicky@gmail.com**
 
-- ⚡ Fun fact **I like food and I think am funny**
+- ⚡ Fun fact **I like food: 😜👌I think am funny**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/@owinoh_victor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@owinoh_victor" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/victo o. owino" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="victo o. owino" height="30" width="40" /></a>
-<a href="https://kaggle.com/victor owinoh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="victor owinoh" height="30" width="40" /></a>
-<a href="https://fb.com/victor owinoh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="victor owinoh" height="30" width="40" /></a>
+<a href="https://twitter.com/owinoh_victor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@owinoh_victor" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/victor-o-owino-016496177/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="victo o. owino" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/owinoh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="victor owinoh" height="30" width="40" /></a>
+<a href="https://www.facebook.com/owinoh.victor/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="victor owinoh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
