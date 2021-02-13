@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Owinoh</h1>
-<h3 align="center">A passionate Data Scientist and Python Developer. Seeking an entry- level position to leverage my proven knowledge of data science, Machine Learning, and python development in a high-level professional environment. Also, I aim to make use of my interpersonal skills to achieve goals of a company that focuses on customer satisfaction and customer experience. Frequently praised by my peers as a hardworking individual. I can be relied on to help your company achieve its goals.</h3>
+<h3 align="center">Data Scientist with a strong Computer Science (programming) background and experience in data analytics, machine learning, and data storytelling. Passionate about explaining data science to non-technical business audiences.I aim To obtain a position as a Data Scientist in a collaborative environment utilizing my creativity and technical skills. The position must demand a high degree of self-motivation and the ability to drive data-centric solutions for complex business problems. I most enjoy solving problems that require my data modeling, analytics, and solution architecture expertise. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owinoh-victor" alt="owinoh-victor" /> </p>
 
