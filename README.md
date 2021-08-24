@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Victor Owinoh</h1>
-<h3 align="center">Data Scientist with a strong Computer Science (programming) background and experience in data analytics, machine learning, and data storytelling. Passionate about explaining data science to non-technical business audiences.I aim To obtain a position as a Data Scientist in a collaborative environment utilizing my creativity and technical skills. The position must demand a high degree of self-motivation and the ability to drive data-centric solutions for complex business problems. I most enjoy solving problems that require my data modeling, analytics, and solution architecture expertise. </h3>
+<h1 align="center">Hi 👋, I'm Victor Owino</h1>
+<h3 align="center">Motivated data scientist with 2 years of experience  in Data Management and Analysis. As a subject matter expert, I am  responsible for designing and building scalable data models, cleaning and transforming data, and enabling advanced analytic capabilities that provide meaningful business value through easy-to-comprehend data visualizations. My analytics and visualization toolbox consist of Python(Numpy, Pandas, Matplotlib & Seaborn) , Power BI (Developer) Tableau, SQL (Expert) SPSS, and Excel (Wizard). </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owinoh-victor" alt="owinoh-victor" /> </p>
 
