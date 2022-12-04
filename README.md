@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Victor Owino</h1>
-<h3 align="center">Motivated data scientist with 2 years of experience  in Data Management and Analysis. As a subject matter expert, I am  responsible for designing and building scalable data models, cleaning and transforming data, and enabling advanced analytic capabilities that provide meaningful business value through easy-to-comprehend data visualizations. My analytics and visualization toolbox consist of Python(Numpy, Pandas, Matplotlib & Seaborn) , Power BI (Developer) Tableau, SQL (Expert) SPSS, and Excel (Wizard). </h3>
+<h3 align="center">Dynamic and organized data Scientist with extensive experience in statistical analysis,
+business intelligence, Machine Learning and the ability to work with a range of big data
+and cloud computing environments. With extensive programming expertise and a
+bachelor's degree in computer science, a certification in data science and skills and
+qualifications in data mining & analysis, I bring diverse knowledge to the workplace.
+Hoping to blend my concrete data science knowledge in a fast-paced, dynamic
+environment to develop data gathering methods that yield insight. I am passionate
+about data-driven approaches for public health impact </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owinoh-victor" alt="owinoh-victor" /> </p>
 
@@ -9,7 +16,7 @@
 
 - 📝 I regulary write articles on [https://www.linkedin.com/in/victor-o-owino-016496177/](https://www.linkedin.com/in/victor-o-owino-016496177/)
 
-- 💬 Ask me about **python, Data science, Machine Learning and AI**
+- 💬 Ask me about **python,R, Data science, Machine Learning and AI**
 
 - 📫 How to reach me **owinohvicky@gmail.com**
 
