@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Victor Owino</h1>
-<h3 align="center">Dynamic and organized data Scientist with extensive experience in statistical analysis,
-business intelligence, Machine Learning and the ability to work with a range of big data
-and cloud computing environments. With extensive programming expertise and a
-bachelor's degree in computer science, a certification in data science and skills and
-qualifications in data mining & analysis, I bring diverse knowledge to the workplace.
-Hoping to blend my concrete data science knowledge in a fast-paced, dynamic
-environment to develop data gathering methods that yield insight. I am passionate
-about data-driven approaches for public health impact </h3>
+<h3 align="center">I am passionate about using data to solve complex problems and drive business success. With a strong background in statistical analysis, machine learning, and data visualization and Dashboard Engineering, I am skilled at turning raw data into actionable insights that drive decision making. When I'm not working with data, you can find me staying up to date on the latest industry trends and technologies, or sharing my knowledge through writing and speaking at industry events. Connect with me to learn more about how data can drive your business forward!"
+ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owinoh-victor" alt="owinoh-victor" /> </p>
 
 - 🌱 I’m currently learning **Deep leaning with Tensor Flow**
-
-- 👨‍💻 All of my projects are available at [http://owinoh.000webhostapp.com/](http://owinoh.000webhostapp.com/)
-
+Skilled in:- 👨‍💻
+1. Programming languages such as Python, R, and SQL
+2. Data analysis and visualization tools such as Excel, Power BI, and matplotlib
+3. Machine learning and statistical analysis techniques
+4. Data cleaning and preprocessing methods
+5. Data management and storage technologies such as SQL databases and big data platforms like Hadoop
+6. Cloud computing platforms and tools such as Amazon Web Services (AWS) and Google Cloud
+7. Collaboration and communication skills for working in interdisciplinary teams
+8. Business acumen and problem-solving skills for applying data insights to real-world scenarios
+9. Ethics and responsible use of data.
 - 📝 I regulary write articles on [https://www.linkedin.com/in/victor-o-owino-016496177/](https://www.linkedin.com/in/victor-o-owino-016496177/)
 
 - 💬 Ask me about **python,R, Data science, Machine Learning and AI**
