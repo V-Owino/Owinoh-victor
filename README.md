@@ -33,6 +33,6 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V_owino&layout=compact" alt="Victor Owino" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Owino&layout=compact" alt="Victor Owino" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=V_owino&show_icons=true" alt="Victor Owino" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=V-Owino&show_icons=true" alt="Victor Owino" /></p>
