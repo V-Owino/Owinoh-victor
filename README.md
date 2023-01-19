@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **python,R, Data science, Machine Learning and AI**
 
-- 📫 How to reach me [**Send Email**](mailto: owinohvicky@gmail.com)
+- 📫 How to reach me [Send Email](mailto:owinohvicky@gmail.com)
 
 - ⚡ Fun fact **I like food: 😜👌I think am funny**
 
