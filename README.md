@@ -17,7 +17,7 @@
 
 - 📫 How to reach me [Send Email](mailto:owinohvicky@gmail.com)
 
-- ⚡ Fun fact **I like food: 😜👌I think am funny**
+- ⚡ Fun fact ** I like Productive chit-chat over Coffee 😜👌I ride Bike at my free time**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Owino&layout=compact" alt="Victor Owino" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=V-Owino&show_icons=true" alt="Victor Owino" /></p>
