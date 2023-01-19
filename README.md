@@ -2,7 +2,7 @@
 <h3 align="center">I am passionate about using data to solve complex problems and drive business success. With a strong background in statistical analysis, machine learning, and data visualization and Dashboard Engineering, I am skilled at turning raw data into actionable insights that drive decision making. When I'm not working with data, you can find me staying up to date on the latest industry trends and technologies, or sharing my knowledge through writing and speaking at industry events. Connect with me to learn more about how data can drive your business forward!"
  </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=owinoh-victor" alt="owinoh-victor" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/V-Owino" alt="Victor Owino" /> </p>
 
 
 - 👨‍💻 Skilled in:
