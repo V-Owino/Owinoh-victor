@@ -1,23 +1,64 @@
-<h1 align="center">Hi 👋, I'm Victor Owino</h1>
-<h3 align="center">I am passionate about using data to solve complex problems and drive business success. With a strong background in statistical analysis, machine learning, and data visualization and Dashboard Engineering, I am skilled at turning raw data into actionable insights that drive decision making. When I'm not working with data, you can find me staying up to date on the latest industry trends and technologies, or sharing my knowledge through writing and speaking at industry events. Connect with me to learn more about how data can drive your business forward!"
- </h3>     
- 
-- **👨‍💻 My Tech Stack:**
-1. Programming languages such as Python, R, and SQL
-2. Data analysis and visualization tools such as Excel, Power BI, and matplotlib
-3. Machine learning and statistical analysis techniques
-4. Data cleaning and preprocessing methods
-5. Data management and storage technologies such as SQL databases and big data platforms like Hadoop
-6. Cloud computing platforms and tools such as Amazon Web Services (AWS) and Google Cloud
-7. Collaboration and communication skills for working in interdisciplinary teams
-8. Business acumen and problem-solving skills for applying data insights to real-world scenarios
-9. Ethics and responsible use of data.
-- 🌱 I’m currently learning **Deep leaning with Tensor Flow**
-- 📝 I regulary write articles on: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="victor-owino-016496177" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ke.linkedin.com/in/victor-owino-016496177?trk=profile-badge">My Articles</a></div>
+# Victor Owino
 
-- 📫 How to reach me [Send Email](mailto:owinohvicky@gmail.com)
+## About Me
+I am a highly motivated data science professional with a strong focus on leveraging data-driven insights to drive positive change. My expertise lies in applying data science techniques to healthcare programs and humanitarian development projects. By utilizing cutting-edge technology, I have consistently delivered high-quality data, complex visualizations, and led data inquiries that align with an organization's mission.
 
-- ⚡ Fun fact ** I like Productive chit-chat over Coffee 😜👌I ride Bike at my free time**
+## Skills
+- Data Analysis
+- Machine Learning
+- Statistical Modeling
+- Data Visualization
+- Predictive Analytics
+- Python/R Programming
+- SQL
+- Big Data Technologies (Hadoop, Spark)
+- Deep Learning
+- Natural Language Processing
+- Healthcare Analytics
+- Health Data Science and AI in Health
+- Cancer Genomics and Genomics Data Science
+- Humanitarian Data Analysis
+- Research and Problem Solving
+- Communication and Collaboration
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Owino&layout=compact" alt="Victor Owino" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=V-Owino&show_icons=true" alt="Victor Owino" /></p>
+## Experience
+**Data Analyst** Kenyatta National Hospital- CIHEB CONNECT Project(2021-Present)
+- Spearheaded initiatives to enhance HIV program data management and reporting systems, including the creation and execution of comprehensive data management Standard Operating Procedures (SOPs).
+- Ensured that technology and health information systems were used, managed, and supported in accordance with the hospital's standards, policies, and procedures.
+- Demonstrated expertise in performing aggregate data analysis and conducting data quality checks within the DHIS-2 platforms.
+- Assisted the Data Manager in preparing monthly, quarterly, semi-annual, and annual data summaries, reports, and presentations for program assessment and decision-making.
+- Developed and executed data quality assurance protocols for EMR data, improving data accuracy and completeness by identifying and resolving data inconsistencies.
+- Collaborated closely with cross-functional teams to develop evidence-based interventions for improving HIV/TB prevention, care, and treatment outcomes.
+- Utilized data-driven insights to inform program implementation and Continuous Quality Improvement (CQI) activities, enhancing program efficiency and patient outcomes.
+- Fostered a culture of data-driven decision-making, showcasing strong team-working skills and a proactive approach.
+- Provided comprehensive technical assistance and capacity building to facility staff on data collection, management, and analysis, as well as routine data demands and information use for HIV/TB care and treatment.
+- Executed queries, implemented database maintenance, and collaborated with the HMIS team to develop effective database management strategies.
+- Collaborated with program staff to develop and implement training programs for EMR systems, improving the quality of data capture and patient care.
+- Assisted in keeping track of ICT infrastructure assets and ensuring the security of the infrastructure and data server.
+
+
+**Program Data Officer** at University of Nairobi - COEHM Project (2020-2021)
+  - Applied data science techniques to evaluate and improve humanitarian development projects.
+  - Conducted statistical analysis on program data to assess impact and make data-driven recommendations for program optimization.
+  - Presented research findings at international conferences and contributed to publications.
+
+## Education
+- **Master of Science in Artificial Inteligence**, Queen Mary University of London, 2024
+- **Bachelor of Science in Computer Science**, University of Eldoret, 2020
+
+## Projects
+- **Healthcare Analytics Dashboard**: Developed an interactive dashboard that visualizes healthcare data to help hospitals identify patterns, optimize resource allocation, and improve patient care.
+- **Predictive Modeling for Disease Outbreaks**: Built a machine learning model to forecast disease outbreaks, enabling timely allocation of resources and implementation of preventive measures.
+- **Sentiment Analysis for Humanitarian Aid**: Conducted sentiment analysis on social media data to understand public perceptions and sentiments towards humanitarian aid efforts, helping organizations tailor their campaigns and communication strategies.
+
+## Publications
+- Coming soon
+
+## Speaking Engagements
+- Speaker at Data Science Summit (2022): Presented on the topic of "Using Data Science for Social Impact: Lessons from Humanitarian Projects."
+
+## Contact
+- Email: victorowinoke@gmail.com
+- LinkedIn: [linkedin.com/in/VictorOwinoKe](https://www.linkedin.com/in/VictorOwinoKe/)
+
+I am passionate about using data science to address global challenges and make a positive impact. I continuously stay updated on the latest industry trends and technologies, and actively contribute my knowledge through writing and speaking engagements. With my technical expertise and commitment to social impact, I am a valuable asset to any team. Feel free to reach out to me for collaboration opportunities or to discuss data science projects.
