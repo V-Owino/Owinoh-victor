@@ -1,49 +1,58 @@
 # Victor Owino
 
 ## About Me
-I am a highly motivated data science professional with a strong focus on leveraging data-driven insights to drive positive change. My expertise lies in applying data science techniques to healthcare programs and humanitarian development projects. By utilizing cutting-edge technology, I have consistently delivered high-quality data, complex visualizations, and led data inquiries that align with an organization's mission.
+I am a highly motivated data science professional with more than 3 years of valuable work experience leveraging data-driven insights to drive positive change. I am consistently motivated by my passion for making a meaningful impact in all aspects of life. Working in the data field grants me the perfect platform to seize great opportunities and create the positive influence I aspire for.
+
+Throughout my career, I have successfully engineered and delivered data solutions across diverse industries, including healthcare, public sector, insurance, and education, resulting in enhanced outcomes for various organizations. Thriving in fast-paced and challenging environments, I possess excellent interpersonal, communication, presentation, leadership, and problem-solving skills.
+
+My goal is to leverage my strong analytical and problem-solving abilities to contribute to an organization's success in driving data-driven initiatives and delivering actionable insights that have a scalable impact. I am excited about the opportunity to bring my expertise and passion for data systems analysis to contribute positively to your team and the organization's overall goals.
 
 ## Skills
-- Data Analysis
-- Machine Learning
-- Statistical Modeling
-- Data Visualization
-- Predictive Analytics
-- Python/R Programming
-- SQL
-- Big Data Technologies (Hadoop, Spark)
-- Deep Learning
-- Natural Language Processing
-- Healthcare Analytics
-- Health Data Science and AI in Health
-- Cancer Genomics and Genomics Data Science
-- Humanitarian Data Analysis
-- Research and Problem Solving
-- Communication and Collaboration
+- Data mining and segmentation
+- Advanced Excel: functions, formulas, and macros
+- SQL & NoSQL Database development, manipulation, and queries
+- Business intelligence and data analytics using Google Data Studio and Power BI
+- Statistical Quantitative methods using Python libraries, SPSS, and STATA
+- Data Engineering, including ETL (Extract, Transform, Load) processes, Power Queries, DAX, and data modeling
+- Data Science & Machine learning algorithms
+- Continuous Integration/Continuous Deployment (CI/CD) pipelines utilizing GitHub
+- IT support, including network configuration and maintenance
+- Web Development using Django, HTML, and JavaScript
+- Project management skills
 
 ## Experience
 **Data Analyst** Kenyatta National Hospital- CIHEB CONNECT Project(2021-Present)
-- Spearheaded initiatives to enhance HIV program data management and reporting systems, including the creation and execution of comprehensive data management Standard Operating Procedures (SOPs).
-- Ensured that technology and health information systems were used, managed, and supported in accordance with the hospital's standards, policies, and procedures.
-- Demonstrated expertise in performing aggregate data analysis and conducting data quality checks within the DHIS-2 platforms.
-- Assisted the Data Manager in preparing monthly, quarterly, semi-annual, and annual data summaries, reports, and presentations for program assessment and decision-making.
-- Developed and executed data quality assurance protocols for EMR data, improving data accuracy and completeness by identifying and resolving data inconsistencies.
-- Collaborated closely with cross-functional teams to develop evidence-based interventions for improving HIV/TB prevention, care, and treatment outcomes.
-- Utilized data-driven insights to inform program implementation and Continuous Quality Improvement (CQI) activities, enhancing program efficiency and patient outcomes.
-- Fostered a culture of data-driven decision-making, showcasing strong team-working skills and a proactive approach.
-- Provided comprehensive technical assistance and capacity building to facility staff on data collection, management, and analysis, as well as routine data demands and information use for HIV/TB care and treatment.
-- Executed queries, implemented database maintenance, and collaborated with the HMIS team to develop effective database management strategies.
-- Collaborated with program staff to develop and implement training programs for EMR systems, improving the quality of data capture and patient care.
-- Assisted in keeping track of ICT infrastructure assets and ensuring the security of the infrastructure and data server.
 
+1. Developed and managed end-to-end data collection processes with scripted querries to ensure accurate and timely acquisition of essential information and project monitoring.
+
+2. Ensured data quality by implementing robust validation procedures, including high-frequency checks and identifying inconsistencies.
+
+3. Provided comprehensive data support, including cleaning, management, and analysis, effectively communicating insights to stakeholders.
+
+4. Spearheaded the design and maintenance of dashboards, databases, and data processes, driving continuous improvement and fostering a data-driven decision-making culture throughout the organization.
+   
+5. Wrote analytical reports  that effectively communicated insights and recommendations, which played a key role in informed decision-making and driving quality improvement initiatives for better health outcomes.
 
 **Program Data Officer** at University of Nairobi - COEHM Project (2020-2021)
-  - Applied data science techniques to evaluate and improve humanitarian development projects.
-  - Conducted statistical analysis on program data to assess impact and make data-driven recommendations for program optimization.
-  - Presented research findings at international conferences and contributed to publications.
+1. Contributed to data retrieval, cleaning, and organization from diverse sources, enabling comprehensive research and summary reports.
+
+2. Demonstrated expertise in executing queries, collaborating with the HMIS team, and implementing effective database management strategies to meet project requirements.
+
+3. Created customized dashboards and reports using advanced Excel and Power BI, catering to specific audience needs for program assessment and decision-making.
+
+4. Successfully tested and advised on new data management processes and systems to enhance efficiency.
+
+5. Wrote technical analytical reports that effectively communicated insights and recommendations, contributing to informed decision-making and program success.
+
+ **Business Intelligence Analyst** at Techedge Africa (Jan 2020 – Jun 2020)
+)
+1. Implemented data-driven sales tracking and forecasting, enhancing resource allocation and marketing decisions.
+2. Developed interactive dashboards using SQL and Power BI for real-time key performance tracking.
+3. Utilized machine learning to identify sales leads and predict customer churn, leading to increased sales and retention.
+4. Achieved record-breaking sales and customer satisfaction, establishing the company as a leader in the competitive digital market.
+5. Provided valuable insights to improve marketing, sales, and customer service strategies, contributing to overall business success.
 
 ## Education
-- **Master of Science in Artificial Inteligence**, Queen Mary University of London, 2024
 - **Bachelor of Science in Computer Science**, University of Eldoret, 2020
 
 ## Projects
