@@ -58,7 +58,7 @@ My goal is to leverage my strong analytical and problem-solving abilities to con
 ## Projects
 - **Healthcare Analytics Dashboard**: Developed an interactive dashboard that visualizes healthcare data to help hospitals identify patterns, optimize resource allocation, and improve patient care.
 - **Predictive Modeling for Disease Outbreaks**: Built a machine learning model to forecast disease outbreaks, enabling timely allocation of resources and implementation of preventive measures.
-- **Sentiment Analysis for Humanitarian Aid**: Conducted sentiment analysis on social media data to understand public perceptions and sentiments towards humanitarian aid efforts, helping organizations tailor their campaigns and communication strategies.
+- **Sentiment Analysis for Insurence Product**: Conducted sentiment analysis on social media data to understand public perceptions and sentiments towards Insurence Product, helping organizations tailor their campaigns and communication strategies.
 
 ## Publications
 - Coming soon
