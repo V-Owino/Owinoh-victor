@@ -1,11 +1,15 @@
 # Victor Owino
 
 ## About Me
-I am a highly motivated data science professional with more than 3 years of valuable work experience leveraging data-driven insights to drive positive change. I am consistently motivated by my passion for making a meaningful impact in all aspects of life. Working in the data field grants me the perfect platform to seize great opportunities and create the positive influence I aspire for.
+Victor is a Data Science and Analytics professional with a strong commitment to leveraging data-driven solutions for problem-solving. My expertise encompasses problem-solving, programming, software testing, creative thinking, Cloud Data warehouse, data analytics, and business intelligence (BI). Victor is dedicated to helping organizations harness their data to gain insights into business trends, resolve challenges, and monitor key metrics. 
 
-Throughout my career, I have successfully engineered and delivered data solutions across diverse industries, including healthcare, public sector, insurance, and education, resulting in enhanced outcomes for various organizations. Thriving in fast-paced and challenging environments, I possess excellent interpersonal, communication, presentation, leadership, and problem-solving skills.
+  " I empower companies  and organizations with the right data, in the right format, analyzed to perfection, and transformed into actionable insights for informed decision-making. For me, creating user-centric BI Dashboards isn't just a skill; it's my passion, turning data into insights that empower decisions. I am deeply committed to enabling everybody in an organization, irrespective of their technical know-how, to work with data comfortably, to feel confident talking about it, and, as a result, make data-informed decisions and build customer experiences powered by data. "
 
-My goal is to leverage my strong analytical and problem-solving abilities to contribute to an organization's success in driving data-driven initiatives and delivering actionable insights that have a scalable impact. I am excited about the opportunity to bring my expertise and passion for data systems analysis to contribute positively to your team and the organization's overall goals.
+Victor led a team in  the design and implementation of a highly scalable data lake and BI platform from the ground up. The goal was to centralize and optimize data storage and processing, enabling the organization to harness the power of its data for advanced analytics, reporting, and business insights. The project entails an automated data pipelines, powered by Airbyte, SQL & Python scripts, ingesting and transforming data from diverse sources into Google BigQuery, a cloud data warehouse. The project culminated in a meticulously curated and user-friendly Power BI dashboard, making data exploration and decision-making an intuitive and accessible process for stakeholders across the organization.
+
+I hold a postgraduate certificate in Applied Data Science and Machine Learning from the College of Engineering and Applied Sciences at Western Michigan University. I also possess a bachelor's degree in Computer Science from the University of Eldoret. Victor  embodies Transformational Digital Leadership by spearheading innovative data-driven initiatives and fostering a culture of digital transformation within organizations. 
+
+In my leisure hours, I display a deep passion for soccer (Manchester  United Fun) and indulge in strategic board games like Chess. Additionally, I find relaxation in the virtual world, often immersing myself in video games such as SimCity.
 
 ## Skills
 - Data mining and segmentation
