@@ -15,9 +15,9 @@ In my leisure hours, I enjoy waltching and playing soccer (Manchester  United Fu
 
 This repository is my Project Portfolio showcasing a range of technical prowess, problem-solving thought processes, and domain expertise.
 # Projects
-## SQL Projects
+## 1.0 SQL Projects
 SQL is a must-have skill for any aspiring data practitioner. Many modern companies store vast amounts of their data in various tables of relational databases. To extract the necessary data from a database for further manipulation and data analysis, you must have a good grasp of SQL. This repository serves as a showcase for my SQL projects
-## 1.0 Covid 19 Data Exploration
+## 1.1 Covid 19 Data Exploration
 **Code:** [COVID Portfolio Project](https://github.com/VictorOwinoKe/SQL-Porfolio-Projects-DDL-DML/blob/master/Covid19-Data-Exploration.sql)
 
 **Description:** The dataset contains records of `Covid-19` cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
@@ -28,7 +28,7 @@ SQL is a must-have skill for any aspiring data practitioner. Many modern compani
 
 **Technology:**  `SQL Server`
 
-## 2.0 SQL Data Cleaning  Queries: Nashville Housing.sql
+## 1.2 SQL Data Cleaning  Queries: Nashville Housing.sql
 **Code:** [SQL Data Cleaning  Queries: Nashville Housing.sql](https://github.com/VictorOwinoKe/SQL-Porfolio-Projects-DDL-DML/blob/6693c44322717d07989054d09b7fb115f394d5f8/SQL%20Data%20Cleaning%20%20Queries%3A%20Nashville%20Housing.sql)
 
 **Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
@@ -39,7 +39,7 @@ SQL is a must-have skill for any aspiring data practitioner. Many modern compani
 
 **Technology:**  `SQL Server`
 
-## 3.0 Student Mental EDA SQL & Python
+## 1.3 Student Mental EDA SQL & Python
 **Code:** [Student Mental Analysis.ipynb](https://github.com/VictorOwinoKe/SQL-Porfolio-Projects-DDL-DML/blob/master/Student's%20Mental%20Health.ipynb)
 
 **Description:** Does going to university in a different country affect your mental health? Studying abroad can be both exciting and difficult. But what might be contributing to this? A Japanese international university surveyed its students in 2018 and published a study the following year that was approved by several ethical and regulatory boards.
@@ -52,7 +52,15 @@ The study found that international students have a higher risk of mental health 
 
 **Technology:**  `SQL Server` , `Notebook`
 
- [More SQL Projects Here ](https://github.com/VictorOwinoKe/SQL-Porfolio-Projects-DDL-DML)
+**[More SQL Projects Here ](https://github.com/VictorOwinoKe/SQL-Porfolio-Projects-DDL-DML)**
+
+## 2.0 Data Analysis Python Projects
+Learning Python is crucial for anyone interested in working with data.  This repository showcases my Python projects, demonstrating my ability to analyze, manipulate and automate data analysis using python
+
+## 3.0 Data Vizualization and Dashboards (Power BI)
+Every day your business generates more data on sales revenue, marketing performance, customer interactions, inventory levels, production metrics, staffing levels, costs, and other KPIs. But with so much data to sift through, it can be difficult for people to see the story it tells.Data visualization brings data to life, making you the master storyteller of the insights hidden within your numbers. 
+
+Below are sample projects through live data dashboards, interactive reports, charts, graphs, and other visual representations, that demostrate how we can use data visualization to helps users develop powerful business insight quickly and effectively.
 
 
 ## Speaking and Coommunity Engagements
