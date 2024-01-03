@@ -3,7 +3,7 @@
 [![About Me](https://img.shields.io/badge/About%20Me-Profile-orange?style=flat-square)](https://github.com/VictorOwinoKe/VictorOwinoKe/edit/master/README.md##About-Me)
 [![SQL Project](https://img.shields.io/badge/SQL%20Project-Link-green?style=flat-square)](https://github.com/VictorOwinoKe/VictorOwinoKe/edit/master/README.md#1.0-SQL-Projects)
 [![Data Analysis Python Projects](https://img.shields.io/badge/Data%20Analysis%20Python%20Projects-Link-purple?style=flat-square)](https://github.com/VictorOwinoKe/VictorOwinoKe/edit/master/README.md#2.0-Data-Analysis-Python-Projects)
-[![BI and Dashboards](https://img.shields.io/badge/BI%20and%20Dashboard-Projects-Link-orange?style=flat-square)](https://github.com/VictorOwinoKe/VictorOwinoKe/edit/master/README.md#3.0-Data-Vizualization-and-Dashboards-(Power-BI))
+[![BI and Dashboards](https://img.shields.io/badge/BI%20and%20Dashboard%20Projects-Link-orange?style=flat-square)](https://github.com/VictorOwinoKe/VictorOwinoKe/edit/master/README.md#3.0-Data-Vizualization-and-Dashboards-(Power-BI))
 [![Publications](https://img.shields.io/badge/Publications-link-green?style=flat-square)](https://github.com/VictorOwinoKe/VictorOwinoKe/edit/master/README.md##Publications)
 [![Contact Me](https://img.shields.io/badge/Contact%20Me-Contact-purple?style=flat-square)](https://github.com/VictorOwinoKe/VictorOwinoKe/edit/master/README.md##Publications)
 
