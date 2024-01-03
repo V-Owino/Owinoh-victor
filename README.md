@@ -1,11 +1,16 @@
 # Victor Owino - Data Analyst Portfolio
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorowinoke/)
-[![Gmail](https://img.shields.io/badge/Send%20Email-victorowinoke%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:victorowinoke@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-green?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/254726032764)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/VictorOwinoKe)
+[![About Me](https://img.shields.io/badge/About%20Me-Profile-orange?style=flat-square)](https://github.com/VictorOwinoKe/VictorOwinoKe/edit/master/README.md##About-Me)
+[![SQL Project](https://img.shields.io/badge/SQL%20Project-Link-green?style=flat-square)](https://github.com/VictorOwinoKe/VictorOwinoKe/edit/master/README.md#1.0-SQL-Projects)
+[![Data Analysis Python Projects](https://img.shields.io/badge/Data%20Analysis%20Python%20Projects-Link-purple?style=flat-square)](https://github.com/VictorOwinoKe/VictorOwinoKe/edit/master/README.md#2.0-Data-Analysis-Python-Projects)
+[![Data Visualization and Dashboards](https://img.shields.io/badge/Data%20Visualization%20and%20Dashboards-Link-orange?style=flat-square)](https://github.com/VictorOwinoKe/VictorOwinoKe/edit/master/README.md#3.0-Data-Vizualization-and-Dashboards-(Power-BI))
+[![Publications](https://img.shields.io/badge/Publications-link-green?style=flat-square)](https://github.com/VictorOwinoKe/VictorOwinoKe/edit/master/README.md##Publications)
+[![Contact Me](https://img.shields.io/badge/Contact%20Me-Contact-purple?style=flat-square)](https://github.com/VictorOwinoKe/VictorOwinoKe/edit/master/README.md##Publications)
 
-Hi, I'm Victor Owino, a seasoned Data and Analytics professional boasting  over 3 years in the data engineering, analytics and Bussiness Intelligence (BI).  Over the years, I have developed a strong foundation in the life sciences, passion and commitment to leveraging technology and data to craft innovative data-driven solutions across diverse sectors especially in areas like healthcare, education, social impact, retail, and insurance.  I've got a knack for finding solutions, and I'm always on the lookout for new challenges in other domains.
+
+## About Me
+
+Hi, I'm Victor Owino, a seasoned Data and Analytics professional with  over 3 years experience in the data engineering, analytics and Bussiness Intelligence (BI).  Over the years, I have developed a strong foundation in the life sciences, passion and commitment to leveraging technology and data to craft innovative data-driven solutions across diverse sectors especially in areas like healthcare, education, social impact, retail, and insurance.  I've got a knack for finding solutions, and I'm always on the lookout for new challenges in other domains.
 
 I take pride in my strength, which lies in my ability to empower companies  and organizations with the right data, in the right format, analyzed to perfection, and transformed into actionable insights for informed decision-making. For me, creating user-centric BI Dashboards and Reports  isn't just a skill; it's my passion, turning data into insights that empower decisions. I am deeply committed to enabling everybody in an organization, irrespective of their technical know-how, to work with data comfortably, to feel confident talking about it, and, as a result, make data-informed decisions and build customer experiences powered by data. You can refer to me as a versatile data analyst who handles everything from managing the nitty-gritty data pipelines to crafting beautiful and insightful end-user dashboards. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve problems.
 
@@ -14,6 +19,8 @@ Victor led a team in  the design and implementation of a highly scalable data pi
 In my leisure hours, I enjoy waltching and playing soccer (Manchester  United Fun) and board games like Chess.  I also find relaxation in the virtual world, sometimes immersing myself in video games such as FIFA.
 
 This repository is my Project Portfolio showcasing a range of technical prowess, problem-solving thought processes, and domain expertise.
+
+
 # Projects
 ## 1.0 SQL Projects
 SQL is a must-have skill for any aspiring data practitioner. Many modern companies store vast amounts of their data in various tables of relational databases. To extract the necessary data from a database for further manipulation and data analysis, you must have a good grasp of SQL. This repository serves as a showcase for my SQL projects
@@ -63,7 +70,7 @@ Every day your business generates more data on sales revenue, marketing performa
 Below are sample projects through live data dashboards, interactive reports, charts, graphs, and other visual representations, that demostrate how we can use data visualization to helps users develop powerful business insight quickly and effectively.
 
 
-## Speaking and Coommunity Engagements
+## Speaking and Community Engagements
 - Mentor and Speaker at the  Datathon 2023 Kenyan Chapter held at the Moringa School, organised by  DTE consultacy, Predictive Analystics, Konza Technopolis  and Mescript Analytics. 
 - Speaker at Data Science Summit (2022): Presented on the topic of "Using Data Science for Social Impact: Lessons from Humanitarian Projects."
 - Served as a Co-Lead within the local  community for the Google Developers Student Club Eldoret Chapter (2019-2020), Student Ambassador for EldoHub (2020).
