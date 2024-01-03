@@ -77,6 +77,23 @@ Learning Python is crucial for anyone interested in working with data.  This rep
 
 **Technology:**  `Python Notebook`
 
+## 2.2 Optimizing Online Learning Engagement: Udacity A/B Testing Experiment
+**Code:** [Udacity A/B Testing Experiment](https://github.com/VictorOwinoKe/Data-Analysis-Python-Projects/blob/main/ab-tests-with-python.ipynb)
+
+**Can asking students in advance about their time commitment reduce early course cancellations in online education??**
+
+**Description:** In the experiment, Udacity tested a change where if the student clicked "start free trial", they were asked how much time they had available to devote to the course.
+If the student indicated 5 or more hours per week, they would be taken through the checkout process as usual. If they indicated fewer than 5 hours per week, a message would appear indicating that Udacity courses usually require a greater time commitment for successful completion, and suggesting that the student might like to access the course materials for free.
+At this point, the student would have the option to continue enrolling in the free trial, or access the course materials for free instead. This screenshot shows what the experiment looks like.
+
+**Objective:** Ivestigate if seting clearer expectations for students upfront, help in reducing the number of frustrated students who left the free trial because they didn't have enough time—without significantly reducing the number of students to continue past the free trial and eventually complete the course.
+
+**Skills:**  `A/B Testing`,  `EDA`,  `scipy`,  `Pandas`,  `Math`
+
+**Technology:**  `Python Notebook`
+
+**[More Python Data Analysis Projects ](https://github.com/VictorOwinoKe/Data-Analysis-Python-Projects)**
+
 ## 3.0 Data Vizualization and Dashboards (Power BI)
 Every day your business generates more data on sales revenue, marketing performance, customer interactions, inventory levels, production metrics, staffing levels, costs, and other KPIs. But with so much data to sift through, it can be difficult for people to see the story it tells.Data visualization brings data to life, making you the master storyteller of the insights hidden within your numbers. 
 
