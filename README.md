@@ -62,7 +62,7 @@ The study found that international students have a higher risk of mental health 
 
 **[More SQL Projects Here ](https://github.com/VictorOwinoKe/SQL-Porfolio-Projects-DDL-DML)**
 
-## 2.0 Data Analysis Python Projects  [![SQL Project](https://img.shields.io/badge/SQL%20Project-Link-green?style=flat-square)](https://github.com/VictorOwinoKe#10-sql-projects)  [![BI and Dashboard Projects](https://github.com/VictorOwinoKe#30-data-vizualization-and-dashboards-power-bi---)
+## 2.0 Data Analysis Python Projects  [![SQL Project](https://img.shields.io/badge/SQL%20Project-Link-green?style=flat-square)](https://github.com/VictorOwinoKe#10-sql-projects)  [![BI and Dashboard Projects](https://img.shields.io/badge/BI%20and%20Dashboard%20Projects-Link-orange?style=flat-square)](https://github.com/VictorOwinoKe#30-data-vizualization-and-dashboards-power-bi---)
 
 Learning Python is crucial for anyone interested in working with data.  This repository showcases my Python projects, demonstrating my ability to analyze, manipulate and automate data analysis using python
 
@@ -121,6 +121,24 @@ Below are sample projects through live data dashboards, interactive reports, cha
 
 **Technology:**  `Microsoft Power BI`
 
+## 3.2 Early Childhood Development Impact Dashboard
+
+  "Imagine a world where all children regardless of where they are born, have the opportunity to reach their full potential."
+![image](https://github.com/VictorOwinoKe/VictorOwinoKe/assets/56676033/ed55c7a2-7c3b-4a72-bc5e-44c764384f54)
+
+**Description:** Every day, thousands of working mothers in East Africa’s informal settlements drop off their young children at unlicensed and congested “babycare” centres.As a result, 
+the health, growth and development of the child is severely compromised. Without supportive care in their early years, these children enter school with physical & learning disabilities that result in them being locked in an intergenerational cycle of poverty that is near impossible to escape. Kidogo is dedicated to chamge this narrative by enhancing access to high-quality, affordable Early Childhood Care & Education in low-income communities across East Africa. Kidogo firmly believes that offering comprehensive and quality childcare and education during the critical first five years of a child's life paves the way for them to grow into content, healthy adults, and valuable contributors to society. "This project utilizes a real dataset that has undergone deidentification, ensuring the protection of individual privacy while allowing for meaningful analysis and insights."
+
+**Objective:** This Power BI dashboard serves as a real-time analytics tool, aiding Kidogo in measuring the impact of their Theory of Change.
+
+![image](https://github.com/VictorOwinoKe/VictorOwinoKe/assets/56676033/34a6df59-70c9-4dff-9a16-012bf85ad58b)
+
+![image](https://github.com/VictorOwinoKe/VictorOwinoKe/assets/56676033/2e7777d4-952a-4b0f-8e16-359c12817fcd)
+
+**Skills:**  `Power Querry`,  `Power BI`,  `Dashboard`,  `Data Vizualization`,  `CREDI` , `ECDI`, `Profitability`
+
+**Technology:**  `Microsoft Power BI`
+
 **[More BI and dashbord Projects Here ](https://github.com/VictorOwinoKe/Data-Vizualization-and-Dashboards-Power-BI-/tree/main)**
 
 ## Speaking and Community Engagements
@@ -144,10 +162,49 @@ Below are sample projects through live data dashboards, interactive reports, cha
 ## Just for Fun 
 
 ```sql
--- Feeling like I need coffee ☕
-SELECT 'Coffee Needed' AS Mood FROM Dual WHERE 1 = 1;
-
 -- Why do programmers prefer dark mode?
 print("Because light attracts bugs!")
 
+-- Welcome to the Magical Kingdom Database!
 
+-- Let's create a table to store information about our adorable dragons.
+CREATE TABLE Dragons (
+    DragonID INT PRIMARY KEY,
+    DragonName VARCHAR(50),
+    Color VARCHAR(20),
+    Age INT,
+    LikesIceCream BIT,
+    FavoriteGame VARCHAR(50)
+);
+
+-- Now, let's insert some cute dragon data!
+INSERT INTO Dragons (DragonID, DragonName, Color, Age, LikesIceCream, FavoriteGame)
+VALUES 
+    (1, 'Sparky', 'Red', 50, 1, 'Hide and Seek'),
+    (2, 'Bubbles', 'Blue', 30, 0, 'Tag'),
+    (3, 'Sunny', 'Yellow', 40, 1, 'Hopscotch'),
+    (4, 'Glimmer', 'Purple', 20, 1, 'Dragonball');
+
+-- Great! Now, let's check who likes ice cream and what games they enjoy.
+SELECT DragonName, LikesIceCream, FavoriteGame
+FROM Dragons
+WHERE LikesIceCream = 1;
+
+-- Uh-oh! Looks like Sparky, Sunny, and Glimmer all have a sweet tooth!
+
+-- Let's organize a dragon game tournament.
+-- First, we need to add a column to track the tournament scores.
+ALTER TABLE Dragons
+ADD COLUMN TournamentScore INT DEFAULT 0;
+
+-- Update scores based on dragon's age because older dragons are wiser, right?
+UPDATE Dragons
+SET TournamentScore = Age * 2;
+
+-- Now, let's see the leaderboard!
+SELECT DragonName, TournamentScore
+FROM Dragons
+ORDER BY TournamentScore DESC
+LIMIT = 3;
+
+-- And the winner is... *drumroll*... Sparky! The wise, ice cream-loving champion!
