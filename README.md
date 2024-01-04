@@ -21,7 +21,8 @@ In my leisure hours, I enjoy waltching and playing soccer (Manchester  United Fu
 This repository is my Project Portfolio showcasing a range of technical prowess, problem-solving thought processes, and domain expertise.
 
 
-# Projects
+# Projects [![SQL Project](https://img.shields.io/badge/SQL%20Project-Link-green?style=flat-square)](https://github.com/VictorOwinoKe#10-sql-projects)  [![Data Analysis Python Projects](https://img.shields.io/badge/Data%20Analysis%20Python%20Projects-Link-purple?style=flat-square)](https://github.com/VictorOwinoKe#20-data-analysis-python-projects)  [![BI and Dashboard Projects](https://img.shields.io/badge/BI%20and%20Dashboard%20Projects-Link-orange?style=flat-square)](https://github.com/VictorOwinoKe#30-data-vizualization-and-dashboards-power-bi)
+
 ## 1.0 SQL Projects
 SQL is a must-have skill for any aspiring data practitioner. Many modern companies store vast amounts of their data in various tables of relational databases. To extract the necessary data from a database for further manipulation and data analysis, you must have a good grasp of SQL. This repository serves as a showcase for my SQL projects
 ## 1.1 Covid 19 Data Exploration
@@ -61,7 +62,8 @@ The study found that international students have a higher risk of mental health 
 
 **[More SQL Projects Here ](https://github.com/VictorOwinoKe/SQL-Porfolio-Projects-DDL-DML)**
 
-## 2.0 Data Analysis Python Projects
+## 2.0 Data Analysis Python Projects  [![SQL Project](https://img.shields.io/badge/SQL%20Project-Link-green?style=flat-square)](https://github.com/VictorOwinoKe#10-sql-projects)  [![BI and Dashboard Projects](https://img.shields.io/badge/BI%20and%20Dashboard%20Projects-Link-orange?style=flat-square)](https://github.com/VictorOwinoKe#30-data-vizualization-and-dashboards-power-bi)
+
 Learning Python is crucial for anyone interested in working with data.  This repository showcases my Python projects, demonstrating my ability to analyze, manipulate and automate data analysis using python
 
 ## 2.1 Student Mental Analysis[EDA + ML]
@@ -94,7 +96,8 @@ At this point, the student would have the option to continue enrolling in the fr
 
 **[More Python Data Analysis Projects ](https://github.com/VictorOwinoKe/Data-Analysis-Python-Projects)**
 
-## 3.0 Data Vizualization and Dashboards (Power BI)
+## 3.0 Data Vizualization and Dashboards (Power BI) [![SQL Project](https://img.shields.io/badge/SQL%20Project-Link-green?style=flat-square)](https://github.com/VictorOwinoKe#10-sql-projects)  [![Data Analysis Python Projects](https://img.shields.io/badge/Data%20Analysis%20Python%20Projects-Link-purple?style=flat-square)](https://github.com/VictorOwinoKe#20-data-analysis-python-projects)
+
 Every day your business generates more data on sales revenue, marketing performance, customer interactions, inventory levels, production metrics, staffing levels, costs, and other KPIs. But with so much data to sift through, it can be difficult for people to see the story it tells.Data visualization brings data to life, making you the master storyteller of the insights hidden within your numbers. 
 
 Below are sample projects through live data dashboards, interactive reports, charts, graphs, and other visual representations, that demostrate how we can use data visualization to helps users develop powerful business insight quickly and effectively.
