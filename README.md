@@ -163,7 +163,7 @@ the health, growth and development of the child is severely compromised. Without
 
 ```sql
 -- Why do programmers prefer dark mode?
-print("Because light attracts bugs!")
+print("Because light attracts bugs! 😂🦟💡")
 
 -- Welcome to the Magical Kingdom Database!
 
